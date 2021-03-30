@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.binarytreetest.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T10:35:13" hostname="LAPTOP-VA1S61KV" time="0.024">
+<testsuite name="com.bridgelabz.binarytreetest.MyBinaryTreeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T11:03:07" hostname="LAPTOP-VA1S61KV" time="0.024">
   <properties/>
-  <testcase name="given3NumbersWhenAddedToBinaryTreeShouldReturnSizeThree()" classname="com.bridgelabz.binarytreetest.MyBinaryTreeTest" time="0.024"/>
+  <testcase name="givenNumbersWhenAddedToBinaryTreeShouldReturnSizeThirteen()" classname="com.bridgelabz.binarytreetest.MyBinaryTreeTest" time="0.024"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
